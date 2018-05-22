@@ -35,3 +35,7 @@ My Pages site will use the layout and styles from the Jekyll theme you have sele
 ### Support or Contact
 
 Am I having trouble with Pages? I should check out their [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and they’ll help me sort it out.
+
+### Miscellany
+
+I'm really just doing this to figure out how this all works. Sure, I could take another tutorial, or do a course on Pluralsight or something, but that's really not how I learn, so, yeah. If you see a mess of commits, that's why. 
