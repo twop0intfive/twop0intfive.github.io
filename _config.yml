@@ -1,2 +1,3 @@
 name: Chris Vega? Chris Vega! (adventures in learning GitHub and Jekyll)
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
