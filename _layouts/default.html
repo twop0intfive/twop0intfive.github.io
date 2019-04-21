@@ -1,9 +1,10 @@
 <!--
-===============
-|| CHANGELOG ||
-===============
-201904211050 - added darkmode html, following tutorial at
-               https://dev.to/ananyaneogi/create-a-dark-light-mode-switch-with-css-variables-34l8
+
+================
+|| CHANGE LOG ||
+================
+20190421 - added darkmode (details in this date's blog post)
+
 -->
 
 
@@ -15,30 +16,7 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<!-- Google Analytics -->
 			{% include analytics.html %}
-			<!--<script>
-			const toggleSwitch = document.querySelector('.theme-switch input[type="checkbox"]');
-			const currentTheme = localStorage.getItem('theme');
-
-			if (currentTheme) {
-			    document.documentElement.setAttribute('data-theme', currentTheme);
-
-			    if (currentTheme === 'dark') {
-			        toggleSwitch.checked = true;
-			    }
-			}
-
-			function switchTheme(e) {
-			    if (e.target.checked) {
-			        document.documentElement.setAttribute('data-theme', 'dark');
-			        localStorage.setItem('theme', 'dark');
-			    }
-			    else {        document.documentElement.setAttribute('data-theme', 'light');
-			          localStorage.setItem('theme', 'light');
-			    }
-			}
-
-			toggleSwitch.addEventListener('change', switchTheme, false);
-    </script>-->
+			<!-- I originally put my dark mode button listener here by mistake. I have learned. -->
 		</head>
 		<body>
 			<nav>
@@ -48,6 +26,7 @@
 	        		<!-- <li><a href="/cv">CV</a></li> -->
 	        		<li><a href="/blog/">Blog</a></li>
 	    		</ul>
+
 					<!-- dark mode switch -->
 					<div class="theme-switch-wrapper">
     				<label class="theme-switch" for="checkbox">
