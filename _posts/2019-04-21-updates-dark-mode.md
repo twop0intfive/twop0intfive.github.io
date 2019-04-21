@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "April update and DARK MODE!"
-date: 2019-01-31
+date: 2019-04-21
 ---
 
 ...so, I'm still working on the dark mode aspect.
@@ -10,4 +10,4 @@ Several months ago stumbled upon Dev.to, and it's been a great resource! (Speaki
 
 It may take me some time to get it working, depending on available time. I'm still working on my Master's and, when combined with the still-relatively-new job and all of the other demands on my time, this tends to take a backseat. However, I'd like to not feel so much like I don't know what I'm doing at work, so I'm going to use this site to learn a little webdev.
 
-We'll see what else comes out of this. Bear with me. 
+We'll see what else comes out of this. Bear with me.
