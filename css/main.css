@@ -9,6 +9,7 @@
 :root {
     --primary-color: #302AE6;
     --secondary-color: #536390;
+    --p-color: #424242;
     --font-color: #424242;
     --bg-color: #fff;
     --heading-color: #292922;
@@ -17,6 +18,7 @@
 [data-theme="dark"] {
     --primary-color: #9A97F3;
     --secondary-color: #818cab;
+    --p-color: #e1e1ff; 
     --font-color: #e1e1ff;
     --bg-color: #161625;
     --heading-color: #818cab;
